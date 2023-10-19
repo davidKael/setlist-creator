@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5df92ea.css",
+    "main.js": "/static/js/main.ec256b38.js",
+    "static/media/2022_Causeries_Vit_utan_bakgrund.png": "/static/media/2022_Causeries_Vit_utan_bakgrund.be0ddd908dcd3ca5113c.png",
+    "index.html": "/index.html",
+    "main.d5df92ea.css.map": "/static/css/main.d5df92ea.css.map",
+    "main.ec256b38.js.map": "/static/js/main.ec256b38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5df92ea.css",
+    "static/js/main.ec256b38.js"
+  ]
+}

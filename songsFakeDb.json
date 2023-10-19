@@ -1,0 +1,38 @@
+{
+  "songs": [
+    { "id": 1, "name": "All Time High", "versions": [{ "name": "original" }] },
+    { "id": 2, "name": "Zebra", "versions": [{ "name": "original" }] },
+
+    { "id": 3, "name": "Gen Y", "versions": [{ "name": "original" }] },
+
+    {
+      "id": 4,
+      "name": "Don't Be One of Us",
+      "versions": [{ "name": "original" }]
+    },
+
+    { "id": 5, "name": "Unisex Guns", "versions": [{ "name": "original" }] },
+
+    { "id": 6, "name": "Shitty Things", "versions": [{ "name": "original" }] },
+
+    { "id": 7, "name": "Nothing", "versions": [{ "name": "original" }] },
+
+    { "id": 8, "name": "EKG", "versions": [{ "name": "original" }] },
+
+    { "id": 9, "name": "Wicked", "versions": [{ "name": "original" }] },
+
+    { "id": 10, "name": "Let Go", "versions": [{ "name": "original" }] },
+    {
+      "id": 11,
+      "name": "The Gravel Path",
+      "versions": [{ "name": "original" }]
+    },
+    {
+      "id": 12,
+      "name": "Wolf Like Me (Cover)",
+      "versions": [{ "name": "cover" }]
+    },
+    { "id": 13, "name": "Interstellar", "versions": [{ "name": "original" }] },
+    { "id": 14, "name": "Vaporize", "versions": [{ "name": "original" }] }
+  ]
+}
